@@ -7,7 +7,7 @@ hero:
     text: "vue3+TypeScript 学习文档" 
     tagline: "纵然世间黑暗，仍有一点星光"
     image:
-      src: /assets/logo.png
+      src: https://s2.loli.net/2024/10/08/cgBihxICRnsVmFH.png
       alt: VitePress
     actions:
     - theme: brand  
