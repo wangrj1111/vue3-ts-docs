@@ -13,7 +13,7 @@ export default defineConfig({
             {text:"常见问题",link:"/faq/"}
         ],
         socialLinks:[
-            {icon:"github",link:"https://github.com/vuejs/vitepress"} 
+            {icon:"github",link:"https://github.com/wangrj1111/vue3-ts-docs"} 
         ],
         sidebar:{
             "/guide/": [
