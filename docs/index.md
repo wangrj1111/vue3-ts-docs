@@ -11,7 +11,7 @@ hero:
       alt: VitePress
     actions:
     - theme: brand  
-      text: 快速开始
+      text: vue基础内容
       link: /guide/
     - theme: alt
       text: 常见问题
